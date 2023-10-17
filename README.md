@@ -1,5 +1,5 @@
 # Moka-Latte-Design By VanillaNilla
-My fisrt library of personalizable vector art.
+My first library of personalizable vector art.
 
 "A sweet and warm design for those coffee lovers...Are you ready for a cup of suggar on your projects?"
 
